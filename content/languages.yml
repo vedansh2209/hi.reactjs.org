@@ -51,6 +51,10 @@
   translated_name: ગુજરાતી
   code: gu
   status: 0
+- name: marathi
+  translated_name: मराठी
+  code: ma
+  status: 0
 - name: Hebrew
   translated_name: עברית
   code: he
